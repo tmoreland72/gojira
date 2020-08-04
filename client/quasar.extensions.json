@@ -1,0 +1,16 @@
+{
+  "@quasar/dotenv": {
+    "env_development": ".env.development",
+    "env_production": ".env.production",
+    "common_root_object": "none",
+    "create_env_files": true,
+    "add_env_to_gitignore": true
+  },
+  "@quasar/qcalendar": {},
+  "@quasar/qactivity": {},
+  "@quasar/qmarkdown": {
+    "import_md": true,
+    "import_vmd": false
+  },
+  "@quasar/qiconpicker": {}
+}

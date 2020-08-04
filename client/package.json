@@ -1,0 +1,37 @@
+{
+  "name": "gojira",
+  "version": "0.0.20200617",
+  "description": "Minimalist Software Project Management",
+  "productName": "Gojira",
+  "cordovaId": "com.thirtyfourfame.gojira",
+  "capacitorId": "",
+  "author": "Troy Moreland <49797484+34fame@users.noreply.github.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.18.1",
+    "lodash": "^4.17.19",
+    "moment": "^2.26.0",
+    "quasar": "^1.0.0",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0",
+    "@quasar/quasar-app-extension-dotenv": "^1.0.1",
+    "@quasar/quasar-app-extension-qactivity": "^1.0.0-beta.4",
+    "@quasar/quasar-app-extension-qcalendar": "^2.1.0",
+    "@quasar/quasar-app-extension-qiconpicker": "^1.2.1",
+    "@quasar/quasar-app-extension-qmarkdown": "^1.0.28"
+  },
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
