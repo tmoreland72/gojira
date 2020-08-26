@@ -1,6 +1,6 @@
 {
-  "name": "Gojira Server",
-  "description": "Minimalist software project management",
+  "name": "gojira-server",
+  "description": "Backend service for Gojira",
   "scripts": {
     "serve": "firebase emulators:start --only functions",
     "shell": "firebase functions:shell",
