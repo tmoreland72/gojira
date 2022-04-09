@@ -20,7 +20,7 @@
     "jsonwebtoken": "^8.5.1",
     "jwks-rsa": "^1.8.0",
     "lodash": "^4.17.15",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "node-fetch": "^2.6.0",
     "tiny-uid": "^1.1.1"
   },
